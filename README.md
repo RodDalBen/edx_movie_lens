@@ -1,4 +1,4 @@
-# edx_movie_lens
+# HarvardX PH125.9x - Data Science: Capstone
 MovieLens: edX-Data Science capstone project.
 
 This repo contains a:
